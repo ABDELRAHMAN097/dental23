@@ -139,6 +139,7 @@ nav{
     width: 100%;
     padding: 21px 0;
     position: absolute;
+    z-index: 4;
     top: 6rem;
     height: calc(100vh - 100px);
     align-items: flex-start;
